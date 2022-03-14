@@ -1,7 +1,7 @@
 // 创建APP组件
 import React from 'react'
-import Hello from './components/Hello/Hello'
-import Welcome from './components/Welcome/Welcome'
+import Hello from './components/Hello'
+import Welcome from './components/Welcome'
 export default class App extends React.Component {
   render() {
     return (
